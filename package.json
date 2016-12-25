@@ -1,0 +1,12 @@
+{
+	"name" : "guitar-chords",
+	"version" : "0.0.1",
+	"description" : "need chords",
+	"main" : "server.js",
+	"author" : "Lynn",
+	"dependencies" : {
+		"express" : "latest",
+		"request" : "latest",
+		"cheerio" : "latest"
+	}
+}
